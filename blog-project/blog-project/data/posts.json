@@ -1,0 +1,33 @@
+{
+    "posts": [
+        {
+            "id": "post_691712a19d1284.84303340",
+            "title": "Моя первая запись!",
+            "content": "Привет мир!",
+            "author_id": "user_691712775a5d49.42575861",
+            "username": "admin",
+            "created_at": "2025-11-14 14:29:37",
+            "media": []
+        },
+        {
+            "id": "post_6942636b85b091.14777562",
+            "title": "ДОПИДГОИРПДЖОРИДЖШЛ",
+            "content": "ЖЛЖЛТЖЛТТЖЛДТЖЛ",
+            "author_id": "user_69425f1569dbf7.56915096",
+            "username": "Skelta",
+            "created_at": "2025-12-17 09:01:47",
+            "media": []
+        },
+        {
+            "id": "post_694265b57e60c7.63949332",
+            "title": "УЕРЕВР",
+            "content": "ЕРУЕРУЕР",
+            "author_id": "user_69425f1569dbf7.56915096",
+            "username": "Skelta",
+            "created_at": "2025-12-17 09:11:33",
+            "media": [
+                "uploads\/img_694265b57dca46.45340194.jpg"
+            ]
+        }
+    ]
+}
